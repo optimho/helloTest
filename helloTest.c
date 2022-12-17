@@ -6,7 +6,7 @@ int main()
 {
     stdio_init_all();
 
-    puts("Hello, world!");
+    puts("Hello, world!!");
 
     return 0;
 }
